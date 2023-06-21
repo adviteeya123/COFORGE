@@ -17,6 +17,9 @@ o	SELECT: Retrieves data from one or more database tables.
 o	INSERT: Inserts new rows of data into a table.
 o	UPDATE: Modifies existing data in a table.
 o	DELETE: Removes rows of data from a table.
+
+
+
 2.	Data Definition Language (DDL) commands:
 
 o	CREATE: Creates a new database, table, view, index, or other database objects.
