@@ -1,4 +1,4 @@
-# COFORGE
+# COFORGE-SQL
 
 MySQL and Python can be used together to perform a variety of data-related tasks. Here are some common use cases for collaborating between MySQL and Python:
 
